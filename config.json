@@ -5,7 +5,7 @@
   },
   "values": {
     "coin_amount": 10,
-    "walk_speed": 16
+    "walk_speed": 50
   },
   "maintenance": false
 }
