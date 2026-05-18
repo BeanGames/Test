@@ -1,0 +1,11 @@
+{
+  "features": {
+    "coins_enabled": true,
+    "welcome_message": true
+  },
+  "values": {
+    "coin_amount": 10,
+    "walk_speed": 16
+  },
+  "maintenance": false
+}
